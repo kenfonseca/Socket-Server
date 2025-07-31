@@ -2,7 +2,7 @@
 This is a socket server listener, written in C, and setup to receive incomming connections.
 
 ## Background
-I followed open-soruce resources on how to setup socket connections between host and client with the purpose of learning how TCP connections are programmed. 
+I followed open-soruce resources on how to setup socket connections between host and client with the purpose of learning how TCP connections are programmed. (Mind the comments, it's for my learning).
 
 ## Server Setup
 ### Disclaimer:
